@@ -97,7 +97,7 @@ Copy Text
   background-color: #8c7d23a1;
   margin-bottom: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  display:none;
+  display: none;
 }
 /*large screen  */
 @media(min-width: 768px) {
